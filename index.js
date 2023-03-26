@@ -10,5 +10,5 @@ app.use(routes);
 // Listening to the server
 const PORT = process.env.PORT || 8008;
 app.listen(PORT, () => {
-    console.log(`>> Listening to the server at : http:\\\localhost:${PORT}`);
+    console.log(`>> Listening to the server at : http://localhost:${PORT}`);
 });
