@@ -27,6 +27,11 @@ This starter template includes the following features:
 -   Express.js server setup with a sample route
 -   Basic error handling
 -   Integration with Node.js package manager (npm)
+-   Easy deployment
+
+## Deployment
+
+Just go to your vercel dashboard and import the project and you will be live in seconds. We have configured all the basic things in the vercel.json file for you. Happy Coding !
 
 ## Contributing
 
